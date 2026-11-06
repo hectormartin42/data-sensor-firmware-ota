@@ -1,6 +1,6 @@
 {
-  "version": "v1.2.0",
+  "version": "v1.2.1",
   "board": "v1",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "verificacion de OTA firmada (sin quemar eFuses); cable sigue libre"
+  "notes": "arreglo emparejamiento BLE (ble_store_config_init)"
 }

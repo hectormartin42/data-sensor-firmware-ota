@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.4",
+  "version": "v1.0.5",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "firmware v1 de la placa"
+  "notes": "rango temp -40..85 y estado BLE temprano"
 }

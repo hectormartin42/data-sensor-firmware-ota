@@ -1,6 +1,6 @@
 {
-  "version": "v1.1.1",
+  "version": "v1.2.0",
   "board": "v1",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "escaneo WiFi mas fiable (coexistencia BLE+WiFi)"
+  "notes": "verificacion de OTA firmada (sin quemar eFuses); cable sigue libre"
 }

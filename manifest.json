@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.7",
+  "version": "v1.0.8",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "el boton manual fuerza la OTA aunque la automatica este desactivada; estado BLE con las 6 lecturas"
+  "notes": "resistencia 0=sin lectura; estado de OTA en la app; SSID/IP y MAC WiFi"
 }

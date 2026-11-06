@@ -1,5 +1,5 @@
 {
-  "version": "v0.0.0",
-  "url": "https://raw.githubusercontent.com/hectormartin42/datasensor-ota/main/firmware.bin",
-  "notes": "placeholder; se actualiza con cada version"
+  "version": "v1.0.4",
+  "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
+  "notes": "firmware v1 de la placa"
 }

@@ -1,5 +1,6 @@
 {
-  "version": "v1.0.10",
+  "version": "v1.1.0",
+  "board": "v1",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "firmware v1.0.10"
+  "notes": "cifrado BLE (H-01), OTA por canales con board + progreso, fix escaneo WiFi"
 }

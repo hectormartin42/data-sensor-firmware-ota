@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.8",
+  "version": "v1.0.9",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "resistencia 0=sin lectura; estado de OTA en la app; SSID/IP y MAC WiFi"
+  "notes": "la OTA ya no se corta por el reposo; termina sola. incluye estado OTA, SSID/IP, MAC y resistencia 0=sin lectura"
 }

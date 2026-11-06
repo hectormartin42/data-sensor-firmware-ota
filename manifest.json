@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.5",
+  "version": "v1.0.6",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "rango temp -40..85 y estado BLE temprano"
+  "notes": "estado BLE con las 6 lecturas y validez por sonda (la app muestra que sonda falla)"
 }

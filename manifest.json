@@ -1,6 +1,6 @@
 {
-  "version": "v1.2.1",
+  "version": "v1.2.2",
   "board": "v1",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "arreglo emparejamiento BLE (ble_store_config_init)"
+  "notes": "periodo de medida en el JSON (proxima transmision en la web)"
 }

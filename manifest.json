@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.6",
+  "version": "v1.0.7",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "estado BLE con las 6 lecturas y validez por sonda (la app muestra que sonda falla)"
+  "notes": "el boton manual fuerza la OTA aunque la automatica este desactivada; estado BLE con las 6 lecturas"
 }

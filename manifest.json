@@ -1,6 +1,6 @@
 {
-  "version": "v1.2.5",
+  "version": "v1.2.6",
   "board": "v1",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "escaneo WiFi por BLE arreglado, mas margen de WiFi en la OTA"
+  "notes": "emparejamiento BLE persistente, no bajar de version, re-emparejado automatico"
 }

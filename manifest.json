@@ -1,6 +1,6 @@
 {
-  "version": "v1.2.2",
+  "version": "v1.2.3",
   "board": "v1",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "periodo de medida en el JSON (proxima transmision en la web)"
+  "notes": "firmware v1.2.3 (placa v1)"
 }

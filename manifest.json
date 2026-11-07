@@ -1,6 +1,6 @@
 {
-  "version": "v1.2.3",
+  "version": "v1.2.4",
   "board": "v1",
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "firmware v1.2.3 (placa v1)"
+  "notes": "prueba de OTA manual"
 }

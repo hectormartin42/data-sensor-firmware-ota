@@ -1,0 +1,7 @@
+{
+  "version": "v1.3.4",
+  "board": "v1",
+  "enc": true,
+  "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
+  "notes": "corrige pared y ambiente intercambiados"
+}

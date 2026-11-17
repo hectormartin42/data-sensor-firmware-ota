@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.5",
+  "version": "v1.3.6",
   "board": "v1",
   "enc": true,
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "TLS MQTT verificado, log OTA cada 10%, ventana BLE 45 s"
+  "notes": "trama con guion bajo, bateria real, salud de 4 sondas, board, durmiente a 1"
 }

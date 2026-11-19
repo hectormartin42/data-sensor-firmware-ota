@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.9",
+  "version": "v1.3.10",
   "board": "v1s",
   "enc": true,
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/v1s/firmware.bin",
-  "notes": "firmware v1.3.9 (placa v1s)"
+  "notes": "firmware v1.3.10 (placa v1s)"
 }

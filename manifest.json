@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.6",
+  "version": "v1.3.7",
   "board": "v1",
   "enc": true,
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "trama con guion bajo, bateria real, salud de 4 sondas, board, durmiente a 1"
+  "notes": "Secuencia de medidas al arrancar con intervalo entre ellas"
 }

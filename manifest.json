@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.7",
+  "version": "v1.3.8",
   "board": "v1",
   "enc": true,
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "Secuencia de medidas al arrancar con intervalo entre ellas"
+  "notes": "Intervalo por defecto entre medidas al arrancar: 60 s"
 }

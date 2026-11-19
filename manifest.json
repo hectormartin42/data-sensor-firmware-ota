@@ -1,7 +1,7 @@
 {
-  "version": "v1.3.10",
+  "version": "v1.3.11",
   "board": "v1",
   "enc": true,
   "url": "https://raw.githubusercontent.com/hectormartin42/data-sensor-firmware-ota/main/firmware.bin",
-  "notes": "Ventana BLE de 60 s al poner las pilas antes del envio inicial"
+  "notes": "Ventana BLE siempre al poner pilas; aborta la secuencia si falla el envio"
 }
